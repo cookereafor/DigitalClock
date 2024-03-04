@@ -1,0 +1,1 @@
+This is a beginner project for a digital clock. The clock is a 24 hour digital clock. The background picture changes every 12 hours. 
